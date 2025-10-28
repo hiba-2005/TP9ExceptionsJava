@@ -87,16 +87,6 @@ Copier le code
 
 
 
----
-
-## Concepts couverts dans le TP9
-- Exceptions standards (`ArithmeticException`, `IOException`, `NumberFormatException`)
-- Exceptions personnalisées (`InvalidUserException`)
-- `try–catch–finally` et `try-with-resources`
-- Lecture et écriture de fichiers (`FileReader`, `FileWriter`, `BufferedReader`)
-- Validation des données et journalisation des erreurs
-
----
 ##  Compilation & exécution
 Depuis le dossier `src/` :
 ```bash
